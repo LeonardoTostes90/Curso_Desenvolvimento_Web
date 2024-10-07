@@ -399,3 +399,7 @@ FodyWeavers.xsd
 
 # Node_Modules
 node_modules
+
+#Package
+package.json
+package-lock.json
